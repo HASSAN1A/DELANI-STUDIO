@@ -1,26 +1,37 @@
-
 .a {
-    background-image: url(/assets/backgrounds/h_img.jpg);
-    background-repeat: ;
-    background-attachment: ;
+
+    background-attachment: fixed;
     background-position: bottom right;
     text-align: center;
-    height: 1071px;
+    width: 100%;
     background-image: center;
-    
+    display: block;
+    max-width: 1400px;
+    max-height: 700px;
+    width: auto;
+    height: auto;
+    font size: 1500%;
+    font color: #000;
+    f
+}
 
+.display-4 {
+    color: white;
+}
 
+.lead {
+    color: white;
 }
 
 .b {
     text-align: center;
     background-color: white;
-    
+
 }
 
 .c {
     text-align: center;
-    width: 1920px
+    width: auto
 }
 
 
@@ -32,12 +43,12 @@
 .e {
     background-color: white;
     text-align: center;
-}  
+}
 
 
 .f {
     text-align: center;
-    width: 1920px
+    width: auto
 }
 
 .g {
@@ -52,29 +63,38 @@
     margin: 0%;
 }
 
-.fom {
-    opacity: initial;
+div.col {
+    float: left;
+    width: 25%;
+    padding: 5px;
+
 
 }
 
-.form-group {
-    opacity: inherit;
-    background-image: none;
-    background-origin: inherit;
-    background-color: transparent;
+* {
+    box-sizing: border-box;
 }
 
-a.img {
-    padding-left: px;
-    padding-left: px;
-    padding-right: px;
-    border;
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
 }
 
-img.e {
-    padding-left: 10px;
-    padding-right: 50px;
-    border: 15px;
-    margin: 30px;
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
 }
 
+.row {
+    display: flex;
+}
+
+body {}
+
+img.nav1 {
+    align-items: center;
+    margin: 0px 15px 15px 5px 15px 5px 15px 5px 15px 0px;
+}
