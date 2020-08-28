@@ -1,0 +1,80 @@
+
+.a {
+    background-image: url(/assets/backgrounds/h_img.jpg);
+    background-repeat: ;
+    background-attachment: ;
+    background-position: bottom right;
+    text-align: center;
+    height: 1071px;
+    background-image: center;
+    
+
+
+}
+
+.b {
+    text-align: center;
+    background-color: white;
+    
+}
+
+.c {
+    text-align: center;
+    width: 1920px
+}
+
+
+.d {
+    background-color: white;
+    text-align: center;
+}
+
+.e {
+    background-color: white;
+    text-align: center;
+}  
+
+
+.f {
+    text-align: center;
+    width: 1920px
+}
+
+.g {
+    text-align: center;
+    background-color: white;
+}
+
+.nav1 navbar-light bg-light {
+    padding-left: 0px;
+    padding-right: 0px;
+    border: 0px;
+    margin: 0%;
+}
+
+.fom {
+    opacity: initial;
+
+}
+
+.form-group {
+    opacity: inherit;
+    background-image: none;
+    background-origin: inherit;
+    background-color: transparent;
+}
+
+a.img {
+    padding-left: px;
+    padding-left: px;
+    padding-right: px;
+    border;
+}
+
+img.e {
+    padding-left: 10px;
+    padding-right: 50px;
+    border: 15px;
+    margin: 30px;
+}
+
