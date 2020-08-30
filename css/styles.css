@@ -88,10 +88,6 @@ div.col {
     display: table;
 }
 
-.row {
-    display: flex;
-}
-
 body {
     font-family: 'Roboto Mono';
     font-size: 10px;
