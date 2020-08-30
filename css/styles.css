@@ -25,10 +25,8 @@
 }
 
 .c {
-    font-size: 10px;
+    font-size: 5px;
     text-align: center;
-    text-orientation: initial;
-    background-position: center;
     height: 275px;
     text-align: center;
     background: url("/assets/backgrounds/s_image.jpg") no-repeat;
@@ -68,7 +66,6 @@
 }
 
 div.col {
-    width: ;
     padding: 10px;
     border: 15px;
     padding-left: 50px;
