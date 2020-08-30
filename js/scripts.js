@@ -22,7 +22,6 @@ $(document).ready(function () {
 $(document).ready(function () {
     $(".pic3").click(function () {
         $(".pic3").hide(100);
-        $(".p3").toggle(100);
         $(".p3").show(100);
     })
     $(".p3").click(function () {
