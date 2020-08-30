@@ -4,7 +4,7 @@
     height: 600px;
     text-align: center;
     background: url("/assets/backgrounds/h_img.jpg") no-repeat;
-    background-size: cover;
+    background-size: 100%;
     width: 100%
 }
 
@@ -25,13 +25,14 @@
 }
 
 .c {
+    font-size: 10px;
     text-align: center;
     text-orientation: initial;
     background-position: center;
     height: 275px;
     text-align: center;
     background: url("/assets/backgrounds/s_image.jpg") no-repeat;
-    background-size: cover;
+    background-size: 100%;
     width: 100%
 }
 
@@ -39,6 +40,7 @@
 .d {
     background-color: white;
     text-align: center;
+    font-size: 10px;
 
 }
 
@@ -73,12 +75,11 @@
 }
 
 div.col {
-    float: ;
     width: ;
-    padding: 15px;
+    padding: 10px;
     margin: 0px;
     border: 10px;
-    padding-left: px;
+    padding-left: 25px;
     padding-bottom: ;
     padding-right: ;
 }
@@ -108,13 +109,14 @@ body {
     font-family: 'Roboto Mono';
     font-size: 10px;
     position: relative;
-    al
+
+
 }
 
 
 .form-group {
     background: ;
-    padding: 20px;
+    padding-left: 40px;
     height: 100%;
     position: relative;
 }
@@ -129,7 +131,6 @@ textarea {
     outline: none;
     height: 100%;
     position: relative;
-    padding left: 40px;
 }
 
 .form-group input {
@@ -293,6 +294,16 @@ footer {
     text-align: center;
     max-width: 70vw;
     margin: 0 auto;
+}
+
+
+
+
+.col-md-12 p,
+#sec-2 p,
+#sec-3 p {
+    font-size: calc(1vw + 1vh + .5vmin);
+}
 }
 
 @media only screen and (max-width: 102 form input,
