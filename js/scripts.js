@@ -15,7 +15,7 @@ $(document).ready(function () {
     })
     $(".p2").click(function () {
         $(".p2").hide(100);
-        $(".pic2").toggle(100);
+
         $(".pic2").show(100);
     });
 });
