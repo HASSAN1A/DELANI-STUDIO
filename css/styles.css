@@ -67,28 +67,17 @@
     background-color: white;
 }
 
-. {
-    padding-left: 0px;
-    padding-right: 0px;
-    border: 0px;
-    margin: 0%;
-}
-
 div.col {
     width: ;
     padding: 10px;
-    margin: 0px;
-    border: 10px;
-    padding-left: 25px;
-    padding-bottom: ;
-    padding-right: ;
-
+    border: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 * {
     box-sizing: border-box;
 }
-
 
 .row::after {
     content: "";
@@ -110,10 +99,7 @@ body {
     font-family: 'Roboto Mono';
     font-size: 10px;
     position: relative;
-
-
 }
-
 
 .form-group {
     background: ;
@@ -123,7 +109,6 @@ body {
 }
 
 textarea {
-    /* background-image: url(/assets/backgrounds/c_image.jpg); */
     width: 100%;
     background-image: center;
     color: white;
@@ -178,65 +163,64 @@ textarea {
     display: none;
 }
 
-.col {
-    column-gap: 40px;
+.row {
+    column-count: 4;
+    column-fill: balance;
+    column-width: 100px;
 }
-
-
-
 
 .po4 {
     height: 150px;
-    width: 75%;
+    width: 100%;
     background: url("/assets/portfolio/work4.jpg") no-repeat;
     background-size: cover
 }
 
 .po3 {
     height: 150px;
-    width: 75%;
+    width: 100%;
     background-image: url("/assets/portfolio/work3.jpg");
     background-size: cover
 }
 
 .po2 {
     height: 150px;
-    width: 75%;
+    width: 100%;
     background-image: url("/assets/portfolio/work2.jpg");
     background-size: cover
 }
 
 .po1 {
     height: 150px;
-    width: 75%;
+    width: 100%;
     background-image: url("/assets/portfolio/work1.jpg");
     background-size: cover
 }
 
 .po5 {
     height: 150px;
-    width: 75%;
+    width: 100%;
     background-image: url("/assets/portfolio/work5.jpg");
     background-size: cover
 }
 
 .po6 {
     height: 150px;
-    width: 75%;
+    width: 100%;
     background-image: url("/assets/portfolio/work6.jpg");
     background-size: cover
 }
 
 .po7 {
     height: 150px;
-    width: 75%;
+    width: 100%;
     background-image: url("/assets/portfolio/work7.jpg");
     background-size: cover
 }
 
 .po8 {
     height: 150px;
-    width: 75%;
+    width: 100%;
     background-image: url("/assets/portfolio/work8.jpg");
     background-size: cover
 }
