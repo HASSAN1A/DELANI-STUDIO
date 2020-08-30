@@ -82,6 +82,7 @@ div.col {
     padding-left: 25px;
     padding-bottom: ;
     padding-right: ;
+
 }
 
 * {
@@ -177,6 +178,10 @@ textarea {
     display: none;
 }
 
+.col {
+    column-gap: 40px;
+}
+
 
 
 
@@ -247,7 +252,7 @@ textarea {
 }
 
 .text>p {
-    padding-top: 67px;
+    padding-top: 70px;
 }
 
 .con {
@@ -286,24 +291,7 @@ form textarea {
 
 form textarea {
     margin-top: 20px;
-    width: 98.8%;
-}
-
-footer {
-    padding-top: 40px;
-    text-align: center;
-    max-width: 70vw;
-    margin: 0 auto;
-}
-
-
-
-
-.col-md-12 p,
-#sec-2 p,
-#sec-3 p {
-    font-size: calc(1vw + 1vh + .5vmin);
-}
+    width: 98.%;
 }
 
 @media only screen and (max-width: 102 form input,
