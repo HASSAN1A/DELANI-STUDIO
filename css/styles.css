@@ -3,18 +3,35 @@
     background-position: center;
     height: 600px;
     text-align: center;
-    background: url("/assets/backgrounds/h_img.jpg") no-repeat;
+    background: url("/assets/backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
     background-size: 100%;
     width: 100%
 }
 
+.logo {
+    padding-bottom: 20px;
+
+}
+
+.intro {
+    text-align: center;
+    padding: 126px;
+}
+
+.mouse {
+    padding: 140px;
+}
+
 .display-4 {
     color: white;
-    font
+    font-size: 33px;
+
 }
 
 .lead {
     color: white;
+    font-size: 10px;
 }
 
 .b {
@@ -29,7 +46,8 @@
     text-align: center;
     height: 275px;
     text-align: center;
-    background: url("/assets/backgrounds/s_image.jpg") no-repeat;
+    background: url("/assets/backgrounds/s_image.jpg");
+    background-repeat: no-repeat;
     background-size: 100%;
     width: 100%
 }
@@ -60,6 +78,15 @@
 
 }
 
+.navbar {
+    list-style-type: none;
+    margin: 40;
+    width: 100%;
+    padding-left: 250px;
+    padding-right: 250px;
+    color: white;
+}
+
 .g {
     text-align: center;
     background-color: white;
@@ -77,13 +104,11 @@ div.col {
 }
 
 .row::after {
-    content: "";
     clear: both;
     display: table;
 }
 
 .row::after {
-    content: "";
     clear: both;
     display: table;
 }
@@ -95,7 +120,6 @@ body {
 }
 
 .form-group {
-    background: ;
     padding-left: 40px;
     height: 100%;
     position: relative;
@@ -106,7 +130,7 @@ textarea {
     background-image: center;
     color: white;
     resize: none;
-    border: solid white font-size: 5em;
+    border: solid white;
     outline: none;
     height: 100%;
     position: relative;
@@ -139,17 +163,6 @@ textarea {
     text-align: center;
 }
 
-}
-
-#del {
-    padding-top: 20vh;
-    padding-bottom: 20px;
-}
-
-#mouse {
-    padding-top: 130px;
-}
-
 .p1,
 .p2,
 .p3 {
@@ -160,6 +173,7 @@ textarea {
     column-count: 4;
     column-fill: balance;
     column-width: 100px;
+
 }
 
 .po4 {
@@ -194,28 +208,28 @@ textarea {
     height: 150px;
     width: 100%;
     background-image: url("/assets/portfolio/work5.jpg");
-    background-size: cover
+    background-size: cover;
 }
 
 .po6 {
     height: 150px;
     width: 100%;
     background-image: url("/assets/portfolio/work6.jpg");
-    background-size: cover
+    background-size: cover;
 }
 
 .po7 {
     height: 150px;
     width: 100%;
     background-image: url("/assets/portfolio/work7.jpg");
-    background-size: cover
+    background-size: cover;
 }
 
 .po8 {
     height: 150px;
     width: 100%;
     background-image: url("/assets/portfolio/work8.jpg");
-    background-size: cover
+    background-size: cover;
 }
 
 .text {
@@ -271,15 +285,15 @@ form textarea {
     width: 98.%;
 }
 
-@media only screen and (max-width: 102 form input,
-    form textarea {
+@media only screen and (max-width: 102) {
+    body {
         width: 100%;
         margin: 5px 0;
     }
 
-    form input[type=submit] {
-        width: auto;
-        padding: 0 15%;
-    }
+}
 
+form input[type=submit] {
+    width: auto;
+    padding: 0 15%;
 }
