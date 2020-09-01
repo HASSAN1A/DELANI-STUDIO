@@ -2,7 +2,7 @@ The Star And Thank Author License (SATA)
 
 Copyright (c) [Hassan Juma](https://https://github.com/HASSAN1A) <okothhassanjuma@gmail.com>
 
-Project Url: https://github.com/HASSAN1A/Akan-name-and-birthday-of-the-week.
+Project Url: https://github.com/HASSAN1A/DELANI-STUDIO
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,10 +19,10 @@ section above first, and then thank the author(s) in Copyright section.
 
 Here are some suggested ways:
 
- - Email the authors a thank-you letter, and make friends with him/her/them.
- - Report bugs or issues.
- - Tell friends what a wonderful project this is.
- - And, sure, you can just express thanks in your mind without telling the world.
+- Email the authors a thank-you letter, and make friends with him/her/them.
+- Report bugs or issues.
+- Tell friends what a wonderful project this is.
+- And, sure, you can just express thanks in your mind without telling the world.
 
 Contributors of this project by forking have the option to add his/her name and
 forked project url at copyright and project url sections, but shall not delete
