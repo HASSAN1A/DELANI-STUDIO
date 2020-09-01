@@ -3,7 +3,7 @@
     background-position: center;
     height: 600px;
     text-align: center;
-    background: url("/assets/backgrounds/h_img.jpg");
+    background: url("./assets/backgrounds/h_img.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%
@@ -46,7 +46,7 @@
     text-align: center;
     height: 275px;
     text-align: center;
-    background: url("/assets/backgrounds/s_image.jpg");
+    background: url("./assets/backgrounds/s_image.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     width: 100%
@@ -73,7 +73,7 @@
     background-position: center;
     height: 430px;
     text-align: center;
-    background: url("/assets/backgrounds/c_image.jpg") no-repeat;
+    background: url("./assets/backgrounds/c_image.jpg") no-repeat;
     background-size: cover;
 
 }
@@ -178,56 +178,56 @@ textarea {
 .po4 {
     height: 150px;
     width: 100%;
-    background: url("/assets/portfolio/work4.jpg") no-repeat;
+    background: url("./assets/portfolio/work4.jpg") no-repeat;
     background-size: cover
 }
 
 .po3 {
     height: 150px;
     width: 100%;
-    background-image: url("/assets/portfolio/work3.jpg");
+    background-image: url("./assets/portfolio/work3.jpg");
     background-size: cover
 }
 
 .po2 {
     height: 150px;
     width: 100%;
-    background-image: url("/assets/portfolio/work2.jpg");
+    background-image: url("./assets/portfolio/work2.jpg");
     background-size: cover
 }
 
 .po1 {
     height: 150px;
     width: 100%;
-    background-image: url("/assets/portfolio/work1.jpg");
+    background-image: url("./assets/portfolio/work1.jpg");
     background-size: cover
 }
 
 .po5 {
     height: 150px;
     width: 100%;
-    background-image: url("/assets/portfolio/work5.jpg");
+    background-image: url("./assets/portfolio/work5.jpg");
     background-size: cover;
 }
 
 .po6 {
     height: 150px;
     width: 100%;
-    background-image: url("/assets/portfolio/work6.jpg");
+    background-image: url("./assets/portfolio/work6.jpg");
     background-size: cover;
 }
 
 .po7 {
     height: 150px;
     width: 100%;
-    background-image: url("/assets/portfolio/work7.jpg");
+    background-image: url("./assets/portfolio/work7.jpg");
     background-size: cover;
 }
 
 .po8 {
     height: 150px;
     width: 100%;
-    background-image: url("/assets/portfolio/work8.jpg");
+    background-image: url("./assets/portfolio/work8.jpg");
     background-size: cover;
 }
 
