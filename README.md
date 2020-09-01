@@ -18,13 +18,13 @@ Here is a working live demo :
 This web app starts with a brief introduction on the about us section and services then when you click on the three what we do icons ,message will toggle upon each click to demonstrate further on what the studio does.It also created a portfolio area on previous projects,this is achieved by hovering the cursor over each picture to show case each project.
 Then finally it will extract users comments by filling the form to get important feedback from studio users.To achieve this applies the mail chimp API to track all the emails and messages from your users to help in tracking progress and analyzing.
 
-![](https://github.com/HASSAN1A/Akan-name-and-birthday-of-the-week.)
+![](https://github.com/HASSAN1A/DELANI-STUDIO)
 
 ## Mobile support
 
 The Web is compatible with devices of all sizes and all OS's, and consistent improvements are being made to make sure no device or OS's is left out.
 
-![](https://github.com/HASSAN1A/Akan-name-and-birthday-of-the-week.)
+![](https://github.com/HASSAN1A/DELANI-STUDIO)
 
 ## [Usage](https://HASSAN1A.github.io/test-answers)
 
@@ -50,9 +50,13 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Built with
 
 1.html (https://www.w3schools.com/html/default.asp)
+
 2.css (https://www.w3schools.com/css/css_colors.asp)
+
 3.Javascript://https://javascript.info/ifelse
+
 4.Bootstrap:https://getbootstrap.com/docs/4.5/components/jumbotron/
+
 5.JQuery:https://jquery.com/
 
 ## To-do
@@ -63,6 +67,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 [Hassan Juma ](https://github.com/HASSAN1A)
 
-## [License](https://github.com/HASSAN1A/Akan-name-and-birthday-of-the-week./blob/master/LICENSE.md)
+## [License](https://github.com/HASSAN1A/DELANI-STUDIO/blob/master/LICENSE.md)
 
 [MIT](https://github.com/HASSAN1A/DELANI-STUDIO/blob/master/LICENSE.md) © [Hassan Juma](https://github.com/HASSAN1A)
